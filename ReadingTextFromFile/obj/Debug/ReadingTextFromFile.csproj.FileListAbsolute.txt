@@ -1,0 +1,15 @@
+c:\users\nash\documents\visual studio 2015\Projects\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.exe.config
+c:\users\nash\documents\visual studio 2015\Projects\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.exe
+c:\users\nash\documents\visual studio 2015\Projects\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.pdb
+c:\users\nash\documents\visual studio 2015\Projects\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.csprojResolveAssemblyReference.cache
+c:\users\nash\documents\visual studio 2015\Projects\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.exe
+c:\users\nash\documents\visual studio 2015\Projects\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.pdb
+D:\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.exe.config
+D:\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.exe
+D:\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.pdb
+C:\Programming\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.exe.config
+C:\Programming\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.exe
+C:\Programming\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.pdb
+C:\Programming\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.exe
+C:\Programming\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\bin\Debug\ReadingTextFromFile.pdb
+C:\Programming\C# Programs\Personal\ReadingTextFromFile\ReadingTextFromFile\obj\Debug\ReadingTextFromFile.csprojResolveAssemblyReference.cache
